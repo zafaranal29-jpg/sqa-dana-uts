@@ -37,4 +37,11 @@ function hitungBiaya(tipe, nominal) {
   return 0;
 }
 
+   function cekPin(pin) {
+     if (pin == "123456") {
+       return true;
+     }
+     return false;
+   }
+
 module.exports = { topUp, transfer, hitungBiaya };
