@@ -15,3 +15,13 @@ Disusun untuk memenuhi tugas Ujian Tengah Semester mata kuliah CSI704 - Software
 3. Transfer ke sesama DANA atau bank
 4. Pembayaran QR
 5. Riwayat transaksi
+
+
+## Tools SQA
+
+| Kategori | Tool |
+|----------|------|
+| SCM | GitHub |
+| Static Analysis | SonarQube Cloud |
+| Test Automation | Postman |
+| Bug Tracking | GitHub Issues |
